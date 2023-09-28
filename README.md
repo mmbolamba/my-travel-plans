@@ -1,8 +1,5 @@
 # my-travel-plans
-# Travel Destinations
 
-A simple app to keep track of destinations I'd like to visit.
-<!doctype html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
